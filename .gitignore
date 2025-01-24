@@ -1,15 +1,16 @@
+# Ignore Android build files
+.gradle/
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+build/
 local.properties
+
+# Ignore Firebase configuration file
+google-services.json
+
+# Ignore sensitive environment files
+*.keystore
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
