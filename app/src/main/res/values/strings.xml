@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SplitSmart</string>
+
+    <string name="status_settled">Settled</string>
+    <string name="action_mark_settled">Mark as Settled</string>
+    <string name="message_expense_settled">Expense marked as settled successfully</string>
+    <string name="error_marking_settled">Error marking expense as settled: %1$s</string>
+    <string name="delete_expense_title">Delete Expense</string>
+    <string name="delete_expense_message">Are you sure you want to delete this expense? This action cannot be undone.</string>
+    <string name="delete_expense_success">Expense deleted successfully</string>
+    <string name="delete_expense_error">Failed to delete expense: %1$s</string>
+    <string name="invalid_expense_details">Invalid expense details</string>
+    <string name="expense_not_found">Expense not found</string>
+    <string name="paid_by_format">Paid by %1$s</string>
+
+</resources>

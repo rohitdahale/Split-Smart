@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "748693626148",
+    "firebase_url": "https://maya-s-marketplace-default-rtdb.firebaseio.com",
+    "project_id": "maya-s-marketplace",
+    "storage_bucket": "maya-s-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748693626148:android:0f04c11ee95ced85c2e7b1",
+        "android_client_info": {
+          "package_name": "com.rohit.mayaadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748693626148-v8mt0b9ihiv430e19ts19uu3lbbv04od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit.mayaadminapp",
+            "certificate_hash": "85d3bea2cfd31d2c0e7e56bac797e98285ffe000"
+          }
+        },
+        {
+          "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDhi57Og0xqT_327o-aitxwRhdkuy3u9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748693626148:android:535952899db956e5c2e7b1",
+        "android_client_info": {
+          "package_name": "com.rohit.mayasmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDhi57Og0xqT_327o-aitxwRhdkuy3u9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748693626148:android:3cb2f164a49181dfc2e7b1",
+        "android_client_info": {
+          "package_name": "com.rohit.splitsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDhi57Og0xqT_327o-aitxwRhdkuy3u9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748693626148-48btrnkdnhkaiqrqsksji9vrfispcmuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
