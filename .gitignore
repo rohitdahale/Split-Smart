@@ -1,16 +1,13 @@
-# Ignore Android build files
-.gradle/
+# Android Studio generated files
 .idea/
 *.iml
-build/
-local.properties
 
-# Ignore Firebase configuration file
+# Build and output directories
+/build
+/app/build
+
+# Local configuration files
 google-services.json
 
-# Ignore sensitive environment files
-*.keystore
-
-# Ignore OS generated files
-.DS_Store
-Thumbs.db
+# Gradle cache files
+.gradle/
